@@ -1,4 +1,4 @@
-#Output-First scans the face from webcam for sample collection.Then develos pretrained detection model from the sample and then detects the availability of thst face in camera from pre trained module from scanned images.
+#Output-First scans the face from webcam for sample collection.Then develops pretrained detection model from the sample and then detects the availability of thst face in camera from pre trained module from scanned images.
 import os
 import array
 import cv2 as cv
